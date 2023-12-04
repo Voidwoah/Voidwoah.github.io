@@ -1,0 +1,286 @@
+body{
+    width: 1920px;
+height: 5607px;
+flex-shrink: 0;
+background: rgba(21, 0, 148, 0.20);
+}
+
+.icon{
+    width: 115.205px;
+    height: 83.015px;
+    transform: rotate(-1.55deg);
+    flex-shrink: 0;
+    fill: #D9D9D9;
+stroke-width: 5px;
+stroke: #000;
+opacity: 0.5;
+}
+
+nav{
+    color: #FFF;
+}
+
+a{
+    color: white;
+}
+
+.p1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 89px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.p2{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.p3{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+header{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px 20px;
+}
+
+.logo img{
+height: 70px;
+}
+
+.menu{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;
+    margin-left: 600px;
+    gap: 25px;
+}
+
+.menu a{
+    text-decoration: none;
+    padding: 10px 10px;
+    display: block;
+}
+
+.imagecontainer img{
+    max-width: 100%;
+    height: auto;
+}
+
+.mainpage{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding:120px;
+}
+
+.orderbutton{
+    width: 312px;
+    height: 93px;
+    flex-shrink: 0;
+    border-radius: 60px;
+    background: #95F5BB;
+    box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.25);
+    border: 0;
+    color: #FFF;
+font-family: Jua;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.button-section{
+    position: relative;
+    right: 1375px;
+    top: 700px;
+}
+
+.ManStanding{
+    position: relative;
+left: 600px;
+z-index: 1;
+}
+
+.group1{
+    position: relative;
+    left: 382px;
+    bottom: 100px;
+    z-index: 0;
+}
+
+.seconddiv{
+    display: flex;
+}
+
+.img2{
+    position: relative;
+    left: 20px;
+    z-index: 1;
+}
+
+.group2{
+    position: relative;
+    left: 20px;
+    bottom: 550px;
+    z-index: 0;
+}
+
+.suurtext{
+    color: white;
+    position: relative;
+    right: -120px;
+    font-size: xx-large;
+    width: 505px;
+height: 104px;
+flex-shrink: 0;
+font-family: Inter;
+font-size: 89px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.vaiketext{
+    position: relative;
+    right: -60px;
+    font-size: x-large;
+    width: 580px;
+height: 652px;
+flex-shrink: 0;
+color: white;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.myworks{
+color: #FFF;
+position: relative;
+left: 750px;
+display: flex;
+flex-wrap: wrap;
+position: relative;
+width: 1011px;
+height: 104px;
+flex-shrink: 0;
+font-family: Inter;
+font-size: 89px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.example1{
+position: relative;
+left: 150px
+}
+
+.ourteam{
+position: relative;
+left: 750px;
+display: flex;
+flex-wrap: wrap;
+color: #FFF;
+width: 1011px;
+height: 104px;
+flex-shrink: 0;
+font-family: Inter;
+font-size: 89px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+
+.team{
+width: 400px;
+height: 400px;
+flex-shrink: 0;
+position: relative;
+left: 300px;
+}
+
+.team2{
+width: 400px;
+height: 400px;
+flex-shrink: 0;
+position: relative;
+left: 400px;
+}
+
+.team3{
+    width: 400px;
+    height: 400px;
+    flex-shrink: 0;
+    position: relative;
+    left: 500px;
+}
+
+.textsection4{
+    display: flex;
+}
+
+.Bill{
+    position: relative;
+    left: 430px;
+    width: 117px;
+    color: #000;
+font-family: Jua;
+font-size: 89px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.Michael{
+    position: relative;
+    left: 740px;
+    width: 117px;
+    color: #000;
+font-family: Jua;
+font-size: 89px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.Vlad{
+position: relative;
+left: 1180px;
+width: 117px;
+color: #000;
+font-family: Jua;
+font-size: 89px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.fifthdiv{
+    display: flex;
+}
+
+.textsection5{
+    color: #000;
+font-family: Jua;
+font-size: 50px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
